@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "1819d1b9-28c1-4d28-a942-0be6179d0978",
+  "revision": "faa10a60-1fcd-45e4-af73-40ab62e64044",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-21T21:35:19.634Z",
+  "updatedAt": "2026-11-21T21:38:21.633Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -2188,6 +2188,64 @@
           "dateSource": "EXIF capture"
         }
       ]
+    },
+    {
+      "id": 1795297099203,
+      "section": "journal",
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-08-15",
+      "time": "10:21",
+      "carer": "Daddy",
+      "narrative": "Oh and that was when you were being weighed and your height measured!",
+      "title": "I find how you sleep so adorable",
+      "photos": [
+        {
+          "file": "2026/08/15/2026-08-15_1021_e2a8edad-0511-490d-bf19-0dfe2c40e75e.jpg",
+          "originalName": "20260815_102121.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-08-15T10:21",
+          "dateSource": "EXIF capture"
+        },
+        {
+          "file": "2026/08/15/2026-08-15_1021_028717ca-f023-447c-b8bc-320dd1fccfea.jpg",
+          "originalName": "20260815_102055.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-08-15T10:20",
+          "dateSource": "EXIF capture"
+        },
+        {
+          "file": "2026/08/15/2026-08-15_1021_027f4854-f752-4ba0-a963-e7340400ccfe.jpg",
+          "originalName": "20260812_114712.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-08-12T11:47",
+          "dateSource": "EXIF capture"
+        },
+        {
+          "file": "2026/08/15/2026-08-15_1021_09c1a781-25ce-4e5d-be4a-dcc4e1e06517.jpg",
+          "originalName": "20260812_114709.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-08-12T11:47",
+          "dateSource": "EXIF capture"
+        },
+        {
+          "file": "2026/08/15/2026-08-15_1021_5487b263-177e-4cb9-bb1b-807a4e8d32f7.jpg",
+          "originalName": "20260808_202103.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-08-08T20:21",
+          "dateSource": "EXIF capture"
+        }
+      ]
     }
   ],
   "profilePhoto": {
@@ -2209,10 +2267,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 41784223,
-    "journalBytes": 87656,
-    "previousJournalBytes": 84067,
-    "totalBytes": 41955946,
-    "updatedAt": "2026-11-21T21:35:19.638Z"
+    "mediaBytes": 42422751,
+    "journalBytes": 89652,
+    "previousJournalBytes": 87656,
+    "totalBytes": 42600059,
+    "updatedAt": "2026-11-21T21:38:21.640Z"
   }
 }
