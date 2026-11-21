@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "1567bd83-b21a-41a2-a436-8b2d2fc92388",
+  "revision": "de570c5f-87f3-42c5-81f3-08f0627920bf",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-21T21:43:22.818Z",
+  "updatedAt": "2026-11-21T21:46:57.090Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -2317,6 +2317,28 @@
           "dateSource": "EXIF capture"
         }
       ]
+    },
+    {
+      "id": 1795297615765,
+      "section": "journal",
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-05-25",
+      "time": "14:00",
+      "carer": "Daddy",
+      "narrative": "Someone that had the time to spend time with you, not trapped in an office away from you being transformed into someone without a heart.\n\nThis was my last day, I believe, leaving the law firm for good.",
+      "title": "Though your mum did not understand, I left this job for you",
+      "photos": [
+        {
+          "file": "2026/05/25/2026-05-25_1400_d8b4c0b1-d0f4-4080-9974-91d5d36315b2.jpg",
+          "originalName": "20260525_140046.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-05-25T14:00",
+          "dateSource": "EXIF capture"
+        }
+      ]
     }
   ],
   "profilePhoto": {
@@ -2338,10 +2360,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 43242515,
-    "journalBytes": 91884,
-    "previousJournalBytes": 91264,
-    "totalBytes": 43425663,
-    "updatedAt": "2026-11-21T21:43:22.821Z"
+    "mediaBytes": 43531557,
+    "journalBytes": 92729,
+    "previousJournalBytes": 91884,
+    "totalBytes": 43716170,
+    "updatedAt": "2026-11-21T21:46:57.099Z"
   }
 }
