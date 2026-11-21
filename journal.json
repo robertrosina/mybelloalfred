@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "abad74b1-3f2b-4a0d-91e0-29db9e48f62f",
+  "revision": "1567bd83-b21a-41a2-a436-8b2d2fc92388",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-21T21:40:18.134Z",
+  "updatedAt": "2026-11-21T21:43:22.818Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -2295,6 +2295,28 @@
           "dateSource": "EXIF capture"
         }
       ]
+    },
+    {
+      "id": 1795297401682,
+      "section": "journal",
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-06-21",
+      "time": "07:38",
+      "carer": "Daddy",
+      "narrative": "",
+      "title": "An early morning walk with the bottle",
+      "photos": [
+        {
+          "file": "2026/06/21/2026-06-21_0738_494812fc-1ecf-479f-ae5a-24d23bf6bb67.jpg",
+          "originalName": "20261122_084236.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-06-21T07:38",
+          "dateSource": "EXIF capture"
+        }
+      ]
     }
   ],
   "profilePhoto": {
@@ -2316,10 +2338,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 43149851,
-    "journalBytes": 91264,
-    "previousJournalBytes": 89652,
-    "totalBytes": 43330767,
-    "updatedAt": "2026-11-21T21:40:18.137Z"
+    "mediaBytes": 43242515,
+    "journalBytes": 91884,
+    "previousJournalBytes": 91264,
+    "totalBytes": 43425663,
+    "updatedAt": "2026-11-21T21:43:22.821Z"
   }
 }
