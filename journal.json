@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "5c9e4584-aac8-4045-8b15-712d23f6b6ca",
+  "revision": "1910cb93-4e6f-4971-9bca-5409142c62f6",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-21T21:31:43.778Z",
+  "updatedAt": "2026-11-21T21:32:30.188Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -2066,13 +2066,23 @@
       "title": "Walk time with daddy",
       "photos": [
         {
-          "file": "2026/08/31/2026-08-31_1712_cd5d7780-2b36-45aa-adba-5299ca77bf61.jpg",
-          "originalName": "20260831_171238.jpg",
+          "file": "2026/08/31/2026-08-31_1712_811e6539-40ce-425b-b9e9-38ad8a94db81.jpg",
+          "originalName": "20260831_171238-cropped.jpg",
           "type": "image/jpeg",
           "favourite": false,
           "caption": "",
           "dateTaken": "2026-08-31T17:12",
-          "dateSource": "EXIF capture"
+          "dateSource": "EXIF capture",
+          "cropOriginalFile": "2026/08/31/2026-08-31_1712_cd5d7780-2b36-45aa-adba-5299ca77bf61.jpg",
+          "cropOriginalDirectory": "media",
+          "cropOriginalName": "20260831_171238.jpg",
+          "crop": {
+            "x": 0,
+            "y": 115.2,
+            "width": 1200,
+            "height": 1248,
+            "rotation": 0
+          }
         }
       ]
     }
@@ -2096,10 +2106,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 40088589,
-    "journalBytes": 83703,
-    "previousJournalBytes": 83042,
-    "totalBytes": 40255334,
-    "updatedAt": "2026-11-21T21:31:43.782Z"
+    "mediaBytes": 40202513,
+    "journalBytes": 84067,
+    "previousJournalBytes": 83703,
+    "totalBytes": 40370283,
+    "updatedAt": "2026-11-21T21:32:30.188Z"
   }
 }
