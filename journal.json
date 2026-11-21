@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "faa10a60-1fcd-45e4-af73-40ab62e64044",
+  "revision": "abad74b1-3f2b-4a0d-91e0-29db9e48f62f",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-21T21:38:21.633Z",
+  "updatedAt": "2026-11-21T21:40:18.134Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -2246,6 +2246,55 @@
           "dateSource": "EXIF capture"
         }
       ]
+    },
+    {
+      "id": 1795297216668,
+      "section": "journal",
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-08-03",
+      "time": "15:22",
+      "carer": "Daddy",
+      "narrative": "",
+      "title": "Caring for my bello then going on a nice walk",
+      "photos": [
+        {
+          "file": "2026/08/03/2026-08-03_1522_a2108b0f-2ef1-4d72-9346-56621b931ba3.jpg",
+          "originalName": "20260803_152226.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-08-03T15:22",
+          "dateSource": "EXIF capture"
+        },
+        {
+          "file": "2026/08/03/2026-08-03_1522_f3b21482-1222-425a-8737-edf0400b5b96.jpg",
+          "originalName": "20260803_152221.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-08-03T15:22",
+          "dateSource": "EXIF capture"
+        },
+        {
+          "file": "2026/08/03/2026-08-03_1522_478f420f-3093-4205-a515-a8f638eb40d0.jpg",
+          "originalName": "20260804_075743.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-08-04T07:57",
+          "dateSource": "EXIF capture"
+        },
+        {
+          "file": "2026/08/03/2026-08-03_1522_cb4d5de7-52ff-449d-95fb-ca2951987a87.jpg",
+          "originalName": "20260804_074919.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-08-04T07:49",
+          "dateSource": "EXIF capture"
+        }
+      ]
     }
   ],
   "profilePhoto": {
@@ -2267,10 +2316,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 42422751,
-    "journalBytes": 89652,
-    "previousJournalBytes": 87656,
-    "totalBytes": 42600059,
-    "updatedAt": "2026-11-21T21:38:21.640Z"
+    "mediaBytes": 43149851,
+    "journalBytes": 91264,
+    "previousJournalBytes": 89652,
+    "totalBytes": 43330767,
+    "updatedAt": "2026-11-21T21:40:18.137Z"
   }
 }
