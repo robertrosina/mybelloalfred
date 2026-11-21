@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "1910cb93-4e6f-4971-9bca-5409142c62f6",
+  "revision": "1819d1b9-28c1-4d28-a942-0be6179d0978",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-21T21:32:30.188Z",
+  "updatedAt": "2026-11-21T21:35:19.634Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -2085,6 +2085,109 @@
           }
         }
       ]
+    },
+    {
+      "id": 1795296918412,
+      "section": "journal",
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-08-23",
+      "time": "16:18",
+      "carer": "Daddy",
+      "narrative": "",
+      "title": "Caring for you at home and then walking in the forest!",
+      "photos": [
+        {
+          "file": "2026/08/23/2026-08-23_1618_acfdf9db-064e-4e96-97b4-285632dfb1e5.jpg",
+          "originalName": "20260823_161815.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-08-23T16:18",
+          "dateSource": "EXIF capture"
+        },
+        {
+          "file": "2026/08/23/2026-08-23_1618_6b142039-9465-4cc9-a640-ee6e6a5afb87.jpg",
+          "originalName": "20260823_161758.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-08-23T16:17",
+          "dateSource": "EXIF capture"
+        },
+        {
+          "file": "2026/08/23/2026-08-23_1618_d4d8a215-b848-4778-99b5-2f0182a97b2e.jpg",
+          "originalName": "20260823_161752.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-08-23T16:17",
+          "dateSource": "EXIF capture"
+        },
+        {
+          "file": "2026/08/23/2026-08-23_1618_f3b2cc43-751c-4cde-a322-7aba369a9a3d.jpg",
+          "originalName": "20260822_105907.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-08-22T10:59",
+          "dateSource": "EXIF capture"
+        },
+        {
+          "file": "2026/08/23/2026-08-23_1618_dec05b7d-dc02-4c43-aefb-b2b628c5e3cf.jpg",
+          "originalName": "20260822_105800.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-08-22T10:58",
+          "dateSource": "EXIF capture"
+        },
+        {
+          "file": "2026/08/23/2026-08-23_1618_d1a455b6-1718-4464-ac19-204eccbd2fde.jpg",
+          "originalName": "20260822_105827.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-08-22T10:58",
+          "dateSource": "EXIF capture"
+        },
+        {
+          "file": "2026/08/23/2026-08-23_1618_a7e24c78-6e8b-4fce-bcb4-e7af167601ef.jpg",
+          "originalName": "20260822_105809.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-08-22T10:58",
+          "dateSource": "EXIF capture"
+        },
+        {
+          "file": "2026/08/23/2026-08-23_1618_3f3a8f33-a9be-45ce-9ea7-48fd41646e24.jpg",
+          "originalName": "20260822_105814.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-08-22T10:58",
+          "dateSource": "EXIF capture"
+        },
+        {
+          "file": "2026/08/23/2026-08-23_1618_773cdae3-9e8a-4c1d-a2ae-48960e6f0765.jpg",
+          "originalName": "20260822_105748.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-08-22T10:57",
+          "dateSource": "EXIF capture"
+        },
+        {
+          "file": "2026/08/23/2026-08-23_1618_c2f3902b-8819-4245-a26c-a4d0e52f9d1b.jpg",
+          "originalName": "20260822_105735.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-08-22T10:57",
+          "dateSource": "EXIF capture"
+        }
+      ]
     }
   ],
   "profilePhoto": {
@@ -2106,10 +2209,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 40202513,
-    "journalBytes": 84067,
-    "previousJournalBytes": 83703,
-    "totalBytes": 40370283,
-    "updatedAt": "2026-11-21T21:32:30.188Z"
+    "mediaBytes": 41784223,
+    "journalBytes": 87656,
+    "previousJournalBytes": 84067,
+    "totalBytes": 41955946,
+    "updatedAt": "2026-11-21T21:35:19.638Z"
   }
 }
