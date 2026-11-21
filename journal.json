@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "33a3a669-49bc-4134-ae93-f1f67904dab4",
+  "revision": "5c9e4584-aac8-4045-8b15-712d23f6b6ca",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-20T00:25:36.681Z",
+  "updatedAt": "2026-11-21T21:31:43.778Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -2053,6 +2053,28 @@
           }
         }
       ]
+    },
+    {
+      "id": 1795296702429,
+      "section": "journal",
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-08-31",
+      "time": "17:12",
+      "carer": "Daddy",
+      "narrative": "I wanted you to see the water so we walked back and forth.",
+      "title": "Walk time with daddy",
+      "photos": [
+        {
+          "file": "2026/08/31/2026-08-31_1712_cd5d7780-2b36-45aa-adba-5299ca77bf61.jpg",
+          "originalName": "20260831_171238.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-08-31T17:12",
+          "dateSource": "EXIF capture"
+        }
+      ]
     }
   ],
   "profilePhoto": {
@@ -2074,10 +2096,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 39972155,
-    "journalBytes": 83042,
-    "previousJournalBytes": 82683,
-    "totalBytes": 40137880,
-    "updatedAt": "2026-11-20T00:25:36.684Z"
+    "mediaBytes": 40088589,
+    "journalBytes": 83703,
+    "previousJournalBytes": 83042,
+    "totalBytes": 40255334,
+    "updatedAt": "2026-11-21T21:31:43.782Z"
   }
 }
