@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "6d455b75-cfb5-49fc-80a3-59d6186ec805",
+  "revision": "e876f4b8-0aed-45a0-8a44-04a8bacbff9e",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-22T10:36:37.781Z",
+  "updatedAt": "2026-11-22T10:37:05.009Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -1066,7 +1066,7 @@
       "date": "2026-11-14",
       "time": "04:06",
       "carer": "Daddy",
-      "title": "Visit from Nonna",
+      "title": "Visits from Nonna",
       "narrative": "",
       "loved": true,
       "section": "journal",
@@ -2362,9 +2362,9 @@
   "storage": {
     "budgetBytes": 1000000000,
     "mediaBytes": 43531557,
-    "journalBytes": 92757,
-    "previousJournalBytes": 92753,
-    "totalBytes": 43717067,
-    "updatedAt": "2026-11-22T10:36:37.787Z"
+    "journalBytes": 92758,
+    "previousJournalBytes": 92757,
+    "totalBytes": 43717072,
+    "updatedAt": "2026-11-22T10:37:05.016Z"
   }
 }
