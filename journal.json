@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "ff586251-8d72-4e12-a468-9921eff5116f",
+  "revision": "6d455b75-cfb5-49fc-80a3-59d6186ec805",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-22T10:35:27.472Z",
+  "updatedAt": "2026-11-22T10:36:37.781Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -1046,6 +1046,16 @@
           "dateTaken": "2026-10-30T14:51:43",
           "dateSource": "EXIF DateTimeOriginal",
           "captureDateNeedsConfirmation": false
+        },
+        {
+          "file": "2026/11/14/2026-11-14_040632_05e6cf61-bc6f-5522-91c6-d6ff6a2c9d90.jpg",
+          "originalName": "mmexport1794629192453.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "Alfred in blue-and-white stripes.",
+          "dateTaken": "2026-11-14T04:06:32.453000",
+          "dateSource": "Export timestamp in filename; capture date unknown",
+          "captureDateNeedsConfirmation": true
         }
       ]
     },
@@ -1061,16 +1071,6 @@
       "loved": true,
       "section": "journal",
       "photos": [
-        {
-          "file": "2026/11/14/2026-11-14_040632_05e6cf61-bc6f-5522-91c6-d6ff6a2c9d90.jpg",
-          "originalName": "mmexport1794629192453.jpg",
-          "type": "image/jpeg",
-          "favourite": false,
-          "caption": "Alfred in blue-and-white stripes.",
-          "dateTaken": "2026-11-14T04:06:32.453000",
-          "dateSource": "Export timestamp in filename; capture date unknown",
-          "captureDateNeedsConfirmation": true
-        },
         {
           "file": "2026/11/14/2026-11-14_0406_d90943d6-12a0-42a1-b729-b348a9616af1.jpg",
           "originalName": "Screenshot_20261116-032736.WhatsApp-cropped.jpg",
@@ -2362,9 +2362,9 @@
   "storage": {
     "budgetBytes": 1000000000,
     "mediaBytes": 43531557,
-    "journalBytes": 92753,
-    "previousJournalBytes": 0,
-    "totalBytes": 43624310,
-    "updatedAt": "2026-11-22T10:35:27.578Z"
+    "journalBytes": 92757,
+    "previousJournalBytes": 92753,
+    "totalBytes": 43717067,
+    "updatedAt": "2026-11-22T10:36:37.787Z"
   }
 }
