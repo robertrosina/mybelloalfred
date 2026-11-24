@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "e876f4b8-0aed-45a0-8a44-04a8bacbff9e",
+  "revision": "0893901a-f62a-4cc9-914a-50a920662307",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-22T10:37:05.009Z",
+  "updatedAt": "2026-11-24T21:52:38.445Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -2340,6 +2340,18 @@
           "dateSource": "EXIF capture"
         }
       ]
+    },
+    {
+      "id": "nonna-letter-2026-11-23-973a008d-d729-4823-a517-166d2e0b92a0",
+      "section": "letters",
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-11-23",
+      "time": "12:00",
+      "carer": "Nonna",
+      "title": "My beloved Alfred",
+      "narrative": "Dear Alfred,\n\nIt's been over two weeks since I last saw you. I love you very, very much, and I miss you more than words can say.\n\nI can only imagine how much your dad misses you, so much more than me.\n\nI am so sorry you came into this world with so much disagreement between your parents. I do think your mum and your dad love you very much, but it seems they disagree on some things.\n\nI know for sure your dad loves you so much, and he is doing the best he can to see you as soon as possible. Unfortunately, your mum is not understanding how your dad would give up anything just to spend time with you. He loves you more than his life, and understandably so. He is willing to give your mum everything, just to be with you.\n\nI don't know why your mum is not understanding the love your dad has for you.\n\nAlfred, you are the most beautiful and amazing baby in the world. I had the pleasure of looking after you for a few days last month. Unfortunately, your mother blocked me for some reason, so I cannot ask her if I can come over to see you, play with you and love you so much.\n\nFor some reason, I don't know why, she will not allow your dad or me anywhere near you.\n\nIf my heart is broken, imagine how much more broken your dad's heart must be.\n\nAlfred, you will not be six months old forever. One day, you will ask questions and want to know why your dad and your Nonna have not been there, why we have been missing you, and why we have missed out on this precious time with you — time your dad and I will never get back.\n\nYes, it's true, your parents had disagreements, but which parents don't? Your Nonno and I had arguments, but I never called the police or had an AVO against him.\n\nYour mother destroyed your dad's life, and she knows it. Maybe it was her plan to marry and have a child so that she could get her Australian citizenship.\n\nI can tell you that I loved your mother better than a daughter. She lived with me while she was pregnant with you, and I waited on her and looked after all her needs.\n\nI really would have liked her to have a discussion with me about what she thinks I did that was so bad, in her eyes, to merit her blocking me, so that I could not have any contact with her or you, my beloved Alfred.\n\nAll I can say is, you reap what you sow. I thought your mother loved God, but it is what it is. She has done, and is doing, what she wants to do.\n\nAlfred, I do pray for you, for your mother and for your dad. I pray that you will grow up knowing and loving God.\n\nYou are a beautiful baby, and God loves you.\n\nI am so proud to be your grandmother, even though I can't see you. You look so much like your dad — identical to your dad! I see him in you every day when I look at the photos and videos I have taken.\n\nI want to see you soon, my beloved, to see how you smile and laugh, to play with you and to read books to you.\n\nYour dad wrote you a book, and he's going to write you another one. He just loves you so much.\n\nSo here's to hoping and praying that we will all be together very soon, very soon, my love.\n\nDon't worry. We will make up for the lost time, I'm sure.\n\nI love you with all my heart.\n\nBye, gorgeous. Bye.",
+      "photos": []
     }
   ],
   "profilePhoto": {
@@ -2362,9 +2374,9 @@
   "storage": {
     "budgetBytes": 1000000000,
     "mediaBytes": 43531557,
-    "journalBytes": 92758,
-    "previousJournalBytes": 92757,
-    "totalBytes": 43717072,
-    "updatedAt": "2026-11-22T10:37:05.016Z"
+    "journalBytes": 96273,
+    "previousJournalBytes": 92758,
+    "totalBytes": 43720588,
+    "updatedAt": "2026-11-24T21:52:38.446Z"
   }
 }
