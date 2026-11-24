@@ -1,5 +1,13 @@
 MY BELLO ALFRED — ANDROID SHARE APP
 
+LETTERS TO ALFRED
+Open the Letters to Alfred tab to browse letters grouped by person.
+Choose All letters, Daddy, Mummy or Nonna, then Write a letter. The From
+field chooses the author. Letters have dates, titles, text and optional
+photos, and can be edited by clicking them. Letter drafts save separately.
+Letters are stored in your existing journal.json and remain outside the
+main chronology. Your existing entries and media are preserved.
+
 UPDATE YOUR EXISTING SITE
 1. Extract this ZIP.
 2. Upload these five files together to the ROOT of your existing GitHub

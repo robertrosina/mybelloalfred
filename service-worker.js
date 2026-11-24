@@ -1,5 +1,5 @@
 'use strict';
-const SHELL_CACHE='alfred-storybook-shell-share-v5';
+const SHELL_CACHE='alfred-storybook-shell-share-v6';
 const APP_BASE=self.registration.scope;
 const SHELL_FILES=['index.html','manifest.webmanifest','app-icon-192.png','app-icon-512.png'];
 const SHARE_DB='alfred-shared-inbox-v1';
