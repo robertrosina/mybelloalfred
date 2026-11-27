@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "0893901a-f62a-4cc9-914a-50a920662307",
+  "revision": "e584d5c2-762e-4e6a-ad31-6f21bbd756c2",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-24T21:52:38.445Z",
+  "updatedAt": "2026-11-27T07:42:55.001Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -2352,6 +2352,100 @@
       "title": "My beloved Alfred",
       "narrative": "Dear Alfred,\n\nIt's been over two weeks since I last saw you. I love you very, very much, and I miss you more than words can say.\n\nI can only imagine how much your dad misses you, so much more than me.\n\nI am so sorry you came into this world with so much disagreement between your parents. I do think your mum and your dad love you very much, but it seems they disagree on some things.\n\nI know for sure your dad loves you so much, and he is doing the best he can to see you as soon as possible. Unfortunately, your mum is not understanding how your dad would give up anything just to spend time with you. He loves you more than his life, and understandably so. He is willing to give your mum everything, just to be with you.\n\nI don't know why your mum is not understanding the love your dad has for you.\n\nAlfred, you are the most beautiful and amazing baby in the world. I had the pleasure of looking after you for a few days last month. Unfortunately, your mother blocked me for some reason, so I cannot ask her if I can come over to see you, play with you and love you so much.\n\nFor some reason, I don't know why, she will not allow your dad or me anywhere near you.\n\nIf my heart is broken, imagine how much more broken your dad's heart must be.\n\nAlfred, you will not be six months old forever. One day, you will ask questions and want to know why your dad and your Nonna have not been there, why we have been missing you, and why we have missed out on this precious time with you — time your dad and I will never get back.\n\nYes, it's true, your parents had disagreements, but which parents don't? Your Nonno and I had arguments, but I never called the police or had an AVO against him.\n\nYour mother destroyed your dad's life, and she knows it. Maybe it was her plan to marry and have a child so that she could get her Australian citizenship.\n\nI can tell you that I loved your mother better than a daughter. She lived with me while she was pregnant with you, and I waited on her and looked after all her needs.\n\nI really would have liked her to have a discussion with me about what she thinks I did that was so bad, in her eyes, to merit her blocking me, so that I could not have any contact with her or you, my beloved Alfred.\n\nAll I can say is, you reap what you sow. I thought your mother loved God, but it is what it is. She has done, and is doing, what she wants to do.\n\nAlfred, I do pray for you, for your mother and for your dad. I pray that you will grow up knowing and loving God.\n\nYou are a beautiful baby, and God loves you.\n\nI am so proud to be your grandmother, even though I can't see you. You look so much like your dad — identical to your dad! I see him in you every day when I look at the photos and videos I have taken.\n\nI want to see you soon, my beloved, to see how you smile and laugh, to play with you and to read books to you.\n\nYour dad wrote you a book, and he's going to write you another one. He just loves you so much.\n\nSo here's to hoping and praying that we will all be together very soon, very soon, my love.\n\nDon't worry. We will make up for the lost time, I'm sure.\n\nI love you with all my heart.\n\nBye, gorgeous. Bye.",
       "photos": []
+    },
+    {
+      "id": 1795765373715,
+      "section": "journal",
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-10-01",
+      "time": "13:32",
+      "carer": "Daddy",
+      "narrative": "",
+      "title": "Short visit with Daddy",
+      "photos": [
+        {
+          "file": "2026/10/01/2026-10-01_1332_a7bf8ba8-c11e-4c29-bea1-fd0a49307209.jpg",
+          "originalName": "20261001_133246.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-10-01T13:32",
+          "dateSource": "EXIF capture"
+        },
+        {
+          "file": "2026/10/01/2026-10-01_1332_47419854-55d0-408c-b69b-939dc73d9d41.jpg",
+          "originalName": "20261001_131829.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-10-01T13:18",
+          "dateSource": "EXIF capture"
+        },
+        {
+          "file": "2026/10/01/2026-10-01_1332_8501fbab-5644-4b0f-b02d-a301c5126086.jpg",
+          "originalName": "20261001_131832.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-10-01T13:18",
+          "dateSource": "EXIF capture"
+        },
+        {
+          "file": "2026/10/01/2026-10-01_1332_82ca6e63-053b-4300-b74b-9b21b8f2cfeb.jpg",
+          "originalName": "20261001_131835.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-10-01T13:18",
+          "dateSource": "EXIF capture"
+        },
+        {
+          "file": "2026/10/01/2026-10-01_1332_149e8dc9-681e-4125-b8cf-0e3da4a2f873.jpg",
+          "originalName": "20261001_132749.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-10-01T13:27",
+          "dateSource": "EXIF capture"
+        },
+        {
+          "file": "2026/10/01/2026-10-01_1332_5c0f0edd-fc35-49dc-8bb0-3cbbfd69ec60.jpg",
+          "originalName": "20261001_133243.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-10-01T13:32",
+          "dateSource": "EXIF capture"
+        },
+        {
+          "file": "2026/10/01/2026-10-01_1332_660b2f1e-228a-4af5-aade-08e513f6cab9.jpg",
+          "originalName": "20261001_133239.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-10-01T13:32",
+          "dateSource": "EXIF capture"
+        },
+        {
+          "file": "2026/10/01/2026-10-01_1332_7ff0b2a8-a958-4866-b907-1763cd54e3a2.jpg",
+          "originalName": "20261001_133227.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-10-01T13:32",
+          "dateSource": "EXIF capture"
+        },
+        {
+          "file": "2026/10/01/2026-10-01_1332_ac13ffe9-9630-462e-9baf-d44ff0e003d9.jpg",
+          "originalName": "20261001_133223.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-10-01T13:32",
+          "dateSource": "EXIF capture"
+        }
+      ]
     }
   ],
   "profilePhoto": {
@@ -2373,10 +2467,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 43531557,
-    "journalBytes": 96273,
-    "previousJournalBytes": 92758,
-    "totalBytes": 43720588,
-    "updatedAt": "2026-11-24T21:52:38.446Z"
+    "mediaBytes": 44791431,
+    "journalBytes": 99502,
+    "previousJournalBytes": 96273,
+    "totalBytes": 44987206,
+    "updatedAt": "2026-11-27T07:42:55.006Z"
   }
 }
