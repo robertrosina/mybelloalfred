@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "597776b2-f8e9-4dbc-9844-0cf07604663b",
+  "revision": "a0ea5184-704f-4296-ad9a-69650e2093cf",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-27T07:48:00.764Z",
+  "updatedAt": "2026-11-27T07:48:21.060Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -2526,6 +2526,37 @@
           "dateSource": "EXIF capture"
         }
       ]
+    },
+    {
+      "id": 1795765699608,
+      "section": "journal",
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-08-24",
+      "time": "06:48",
+      "carer": "Daddy",
+      "narrative": "",
+      "title": "Two best friends! Hanging out!",
+      "photos": [
+        {
+          "file": "2026/08/24/2026-08-24_0648_9b120ce0-eadb-4997-aa93-c055e1d57b03.jpg",
+          "originalName": "916bfc29-dbe5-4805-a0a8-f00bf6d739a9.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-08-24T06:48",
+          "dateSource": "EXIF capture"
+        },
+        {
+          "file": "2026/08/24/2026-08-24_0648_ef846443-9b27-4a8b-9a80-a1dbc30c5f21.jpg",
+          "originalName": "d2732e90-8ee7-4fb4-88a4-56fd9c45a0c7.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-08-24T06:48",
+          "dateSource": "EXIF capture"
+        }
+      ]
     }
   ],
   "profilePhoto": {
@@ -2547,10 +2578,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 45460846,
-    "journalBytes": 102037,
-    "previousJournalBytes": 101098,
-    "totalBytes": 45663981,
-    "updatedAt": "2026-11-27T07:48:00.768Z"
+    "mediaBytes": 45672562,
+    "journalBytes": 103020,
+    "previousJournalBytes": 102037,
+    "totalBytes": 45877619,
+    "updatedAt": "2026-11-27T07:48:21.063Z"
   }
 }
