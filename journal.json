@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "704016bb-0858-499d-a01e-3feb2166917f",
+  "revision": "597776b2-f8e9-4dbc-9844-0cf07604663b",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-27T07:44:42.118Z",
+  "updatedAt": "2026-11-27T07:48:00.764Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -2495,6 +2495,37 @@
           "dateSource": "EXIF capture"
         }
       ]
+    },
+    {
+      "id": 1795765679585,
+      "section": "journal",
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-07-17",
+      "time": "07:32",
+      "carer": "Daddy",
+      "narrative": "",
+      "title": "Being Superbello with Mummy",
+      "photos": [
+        {
+          "file": "2026/07/17/2026-07-17_0732_7cc13687-3e5c-4510-8da4-606fdb069dd3.jpg",
+          "originalName": "20260717_073206.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-07-17T07:32",
+          "dateSource": "EXIF capture"
+        },
+        {
+          "file": "2026/07/17/2026-07-17_0732_1676de05-cc7d-4b78-8e75-cbd277cb413e.jpg",
+          "originalName": "20260717_073202.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-07-17T07:32",
+          "dateSource": "EXIF capture"
+        }
+      ]
     }
   ],
   "profilePhoto": {
@@ -2516,10 +2547,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 45301689,
-    "journalBytes": 101098,
-    "previousJournalBytes": 99502,
-    "totalBytes": 45502289,
-    "updatedAt": "2026-11-27T07:44:42.123Z"
+    "mediaBytes": 45460846,
+    "journalBytes": 102037,
+    "previousJournalBytes": 101098,
+    "totalBytes": 45663981,
+    "updatedAt": "2026-11-27T07:48:00.768Z"
   }
 }
