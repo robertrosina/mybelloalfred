@@ -1,9 +1,9 @@
 {
   "format": "little-days-local",
   "version": 1,
-  "revision": "a0ea5184-704f-4296-ad9a-69650e2093cf",
+  "revision": "f0a9e950-2eb3-4231-9fd0-873e4af1bbf6",
   "mediaDirectory": "media",
-  "updatedAt": "2026-11-27T07:48:21.060Z",
+  "updatedAt": "2026-11-27T07:48:34.974Z",
   "entries": [
     {
       "id": 1795057744248,
@@ -2557,6 +2557,37 @@
           "dateSource": "EXIF capture"
         }
       ]
+    },
+    {
+      "id": 1795765713585,
+      "section": "journal",
+      "type": "Journal",
+      "detail": "",
+      "date": "2026-09-03",
+      "time": "09:08",
+      "carer": "Daddy",
+      "narrative": "",
+      "title": "My bello with a little scratch on his face!",
+      "photos": [
+        {
+          "file": "2026/09/03/2026-09-03_0908_7af0effe-5cf1-467e-9b79-5164cf172e9d.jpg",
+          "originalName": "78af2628-09fe-4de6-9cf0-bcb71ef85ed3.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-09-03T09:08",
+          "dateSource": "EXIF capture"
+        },
+        {
+          "file": "2026/09/03/2026-09-03_0908_2fa6a69b-ebfe-48d9-b501-862d59433c15.jpg",
+          "originalName": "a984fcaa-bcfc-464b-b650-77f29cb61e0b.jpg",
+          "type": "image/jpeg",
+          "favourite": false,
+          "caption": "",
+          "dateTaken": "2026-09-03T09:08",
+          "dateSource": "EXIF capture"
+        }
+      ]
     }
   ],
   "profilePhoto": {
@@ -2578,10 +2609,10 @@
   ],
   "storage": {
     "budgetBytes": 1000000000,
-    "mediaBytes": 45672562,
-    "journalBytes": 103020,
-    "previousJournalBytes": 102037,
-    "totalBytes": 45877619,
-    "updatedAt": "2026-11-27T07:48:21.063Z"
+    "mediaBytes": 45977658,
+    "journalBytes": 104016,
+    "previousJournalBytes": 103020,
+    "totalBytes": 46184694,
+    "updatedAt": "2026-11-27T07:48:34.977Z"
   }
 }
